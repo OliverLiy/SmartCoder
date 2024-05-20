@@ -1,0 +1,116 @@
+# Gradle specific
+.gradle/
+build/
+
+# IDEA/IntelliJ project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse project files
+.project
+.classpath
+.settings/
+target/
+
+# VS Code project files
+.vscode/
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Java specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Compiled source files
+*.out
+*.o
+*.pyc
+*.pyo
+
+# Virtual environment (Python)
+venv/
+ENV/
+
+# IntelliJ IDEA generated files
+out/
+
+# Maven specific
+.mvn/
+!/.mvn/wrapper/maven-wrapper.jar
+!/.mvn/wrapper/maven-wrapper.properties
+!/.mvn/wrapper/maven-wrapper.jar
+target/
+
+# Gradle Wrapper
+gradle/wrapper/gradle-wrapper.properties
+gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin specific
+*.kts
+
+# Node specific
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# JUnit 5 Maven Surefire plugin temporary files
+.junit/
+
+# Coverage results
+*.lcov
+
+# Static analysis tools
+.checkstyle/
+.findbugs/
+.pmd/
+
+# Build output
+bin/
+out/
+
+# IDE project files
+*.idea/
+*.classpath
+*.project
+*.settings/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Gradle caches
+.gradle
+
+# Local configuration file
+local.properties
+
+# Gradle build folder
+build/
+
+# Distribution directory
+dist/
