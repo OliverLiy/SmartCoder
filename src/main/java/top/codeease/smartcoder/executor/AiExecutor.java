@@ -120,7 +120,7 @@ public class AiExecutor {
 
 
     /**
-     * 简单的聊天获取结果
+     * ollama开源框架简单的聊天获取结果
      * @param prompt
      * @return
      */
@@ -156,7 +156,7 @@ public class AiExecutor {
     }
 
     /**
-     * 带历史上下文的回答
+     * ollama开源框架带历史上下文的回答
      * @param prompt
      * @return
      */
