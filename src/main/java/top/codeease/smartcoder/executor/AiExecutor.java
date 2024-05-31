@@ -24,7 +24,7 @@ public class AiExecutor {
 
     private String generateUrl = "http://127.0.0.1:11434/api/generate";
     private String chatUrl = "http://127.0.0.1:11434/api/chat";
-    private String ApiKey = "Bearer 换成自己阿里云百炼平台的key";
+    private String ApiKey = "Bearer 你自己的key";
     /**
      * 通义大模型模型链接
      */
